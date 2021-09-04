@@ -1,3 +1,5 @@
+Note; I had to fork this project because I no longer have access to my original github account Forsevin.
+
 Not3D
 =====
 
